@@ -1,0 +1,1 @@
+This is the Glow Blocks mod for Minetest made by Excalibur Zero.
